@@ -1,5 +1,5 @@
 # snakecpp
-Snake game 
+Entertainments
 
 
 ## Meaning
